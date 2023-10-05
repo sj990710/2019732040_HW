@@ -1,6 +1,6 @@
 # 2019732040_HW
-2019732040 이승주
+990710 Lee Seungju
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5ODIxMTgwXX0=
+eyJoaXN0b3J5IjpbNzYzMjkzMjM4LDc2OTgyMTE4MF19
 -->
